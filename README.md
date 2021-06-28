@@ -6,10 +6,10 @@
 ## [Link to the image folder:](#Internal-text)
 [Link to the images folder](./images)
 
-## [The image:](#The-image)
+## [The images:](#The-image)
 ![some image](./images/logo.png)
 
-## [The emojis:](#The-emoji)
+## [The emojis:](#emoji)
  🍓 + 🍌 + 🥛 = 🍸
 
 
@@ -23,5 +23,5 @@
 - [x] External Link
 - [x] Internal text
 - [x] The image
-- [X] The emoji
+- [X] Emoji
 - [x] Table
