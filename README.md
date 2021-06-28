@@ -2,11 +2,11 @@
 
 
 ## External links:
-- [ ] [External Link](#External-link-to-the-github-documentation)
-- [ ] [Internal text](#Link-to-the-image-folder)
-- [ ] [The image:](#The-image)
-- [ ] [The emoji:](#The-emoji) 
-- [ ] [Table](#The-Table): 
+- [x] [External Link](#External-link-to-the-github-documentation)
+- [x] [Internal text](#Link-to-the-image-folder)
+- [x] [The image:](#The-image)
+- [X] [The emoji:](#The-emoji) 
+- [x] [Table](#The-Table): 
 
 
 ## External link to the github documentation:
