@@ -10,7 +10,7 @@
 
 
 ## External link to the github documentation:
-[github documentation](https://help.github.com/en)
+[Github Documentation](https://help.github.com/en)
 
 ## Link to the image folder:
 [Link to the images folder](./images)
