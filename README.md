@@ -22,7 +22,6 @@
 
 
 ## The Table:
-
 | First Column | Second Column |
 | ------- | ----- |
 |First row first col|First row second col|
