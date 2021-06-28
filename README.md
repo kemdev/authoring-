@@ -6,7 +6,7 @@
 - [ ] [Internal text]()
 - [ ] [The image:]()
 
-- [ ] [The emoji:](##The-emoji) 
+- [ ] [The emoji:](#The-emoji) 
 
 
 
