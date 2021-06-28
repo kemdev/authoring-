@@ -13,7 +13,7 @@
 [github documentation](https://help.github.com/en)
 
 ## Link to the image folder:
-[Internal link](./images/logo.png)
+[Internal link](./images)
 
 ## The image:
 ![some image](./images/logo.png)
