@@ -1,7 +1,5 @@
 # Github Flavoured Markdown
 
-
-## External links:
 - [x] [External Link](#External-link-to-the-github-documentation)
 - [x] [Internal text](#Link-to-the-image-folder)
 - [x] [The image](#The-image)
