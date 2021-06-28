@@ -14,7 +14,7 @@
 ## Link to the image folder:
 [Link to the images folder](./images)
 
-## The images:
+## The image:
 ![some image](./images/logo.png)
 
 ## The emojis:
