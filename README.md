@@ -2,19 +2,12 @@
 
 
 ## External links:
-- [ ] [Linkedin](https://www.linkedin.com/in/abdulkarim-alarmanazi/)
-- [ ] [Internal text]()
-- [ ] [The image:]()
-
+- [ ] [External Link](#External-link-to-the-github-documentation)
+- [ ] [Internal text](#Link-to-the-image-folder)
+- [ ] [The image:](#The-image)
 - [ ] [The emoji:](#The-emoji) 
+- [ ] [Table](#The-Table): 
 
-
-
-- [ ] Table: 
-
-| First Column | Second Column |
-| ------- | ----- |
-|First row|Second row|
 
 ## External link to the github documentation:
 [github documentation](https://help.github.com/en)
@@ -27,3 +20,10 @@
 
 ## The emoji
  🍓 + 🍌 + 🥛 = 🍸
+
+
+## The Table:
+
+| First Column | Second Column |
+| ------- | ----- |
+|First row|Second row|
