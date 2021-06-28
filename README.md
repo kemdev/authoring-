@@ -4,8 +4,8 @@
 ## External links:
 - [x] [External Link](#External-link-to-the-github-documentation)
 - [x] [Internal text](#Link-to-the-image-folder)
-- [x] [The image:](#The-image)
-- [X] [The emoji:](#The-emoji) 
+- [x] [The image](#The-image)
+- [X] [The emoji](#The-emoji) 
 - [x] [Table](#The-Table): 
 
 
@@ -18,7 +18,7 @@
 ## The image:
 ![some image](./images/logo.png)
 
-## The emoji
+## The emojis:
  🍓 + 🍌 + 🥛 = 🍸
 
 
