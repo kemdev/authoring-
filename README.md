@@ -1,6 +1,6 @@
 # Github Flavoured Markdown
 
-## [External link to the github documentation:](#External-Link)
+## [External link to the github documentation:](External-Link)
 [Github Documentation](https://help.github.com/en)
 
 ## [Link to the image folder:](#Internal-text)
