@@ -1,28 +1,27 @@
 # Github Flavoured Markdown
 
-- [x] [External Link](#External-link-to-the-github-documentation)
-- [x] [Internal text](#Link-to-the-image-folder)
-- [x] [The image](#The-image)
-- [X] [The emoji](#The-emoji) 
-- [x] [Table](#The-Table): 
-
-
-## External link to the github documentation:
+## [External link to the github documentation:](#External-Link)
 [Github Documentation](https://help.github.com/en)
 
-## Link to the image folder:
+## [Link to the image folder:](#Internal-text)
 [Link to the images folder](./images)
 
-## The image:
+## [The image:](#The-image)
 ![some image](./images/logo.png)
 
-## The emojis:
+## [The emojis:](#The-emoji)
  🍓 + 🍌 + 🥛 = 🍸
 
 
-## The Table:
+## [The Table:](#Table)
 
 | First Column | Second Column |
 | ------- | ----- |
 |First row first col|First row second col|
 |second row first col|Second row second col|
+
+- [x] External Link
+- [x] Internal text
+- [x] The image
+- [X] The emoji
+- [x] Table
